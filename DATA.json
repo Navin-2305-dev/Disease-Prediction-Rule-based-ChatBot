@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "Name": "Navin ",
+            "Age": 19,
+            "Gender": "male",
+            "Disease": "Malaria",
+            "Sympts": [
+                "high_fever",
+                "diarrhoea",
+                "vomiting",
+                "sweating",
+                "headache"
+            ]
+        }
+    ]
+}
