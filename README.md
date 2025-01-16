@@ -46,4 +46,4 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
    
    ```bash
-   https://github.com/SEC-NLP-2026-C/disease-prediction-chatbot.git
+   https://github.com/Navin-2305-dev/Disease-Prediction-Rule-based-ChatBot.git
